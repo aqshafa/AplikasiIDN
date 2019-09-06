@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".Asrama">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Daftar Asrama SMP IDN Boarding School"
+        android:textSize="20sp"
+        android:layout_marginVertical="10dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:paddingVertical="15dp"
+        android:paddingHorizontal="15dp"
+        android:background="@drawable/gradient"/>
+
+    <Button
+        android:id="@+id/btnumar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Umar bin Khattab"
+        android:textSize="20sp"
+        android:layout_marginHorizontal="70dp"/>
+
+    <Button
+        android:id="@+id/btnkhalid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Khalid bin Walid"
+        android:textSize="20sp"
+        android:layout_marginHorizontal="70dp"/>
+
+    <Button
+        android:id="@+id/btnutsman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Utsman bin Affan"
+        android:textSize="20sp"
+        android:layout_marginHorizontal="70dp"/>
+
+    <Button
+        android:id="@+id/btnali"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ali bin Abi Thalib"
+        android:textSize="20sp"
+        android:layout_marginHorizontal="70dp"/>
+
+    <Button
+        android:id="@+id/btnthoriq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thoriq bin Ziyad"
+        android:textSize="20sp"
+        android:layout_marginHorizontal="70dp"/>
+
+    <Button
+        android:id="@+id/btnabdurrahman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abdurrahman bin Auf"
+        android:textSize="20sp"
+        android:layout_marginHorizontal="70dp" />
+
+    <Button
+        android:id="@+id/btnasrama9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Asrama Kelas 9"
+        android:textSize="20sp"
+        android:layout_marginHorizontal="70dp"/>
+
+
+</LinearLayout>

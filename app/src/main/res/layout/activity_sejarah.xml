@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".Sejarah">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sejarah SMP IDN Boarding School"
+        android:textSize="20sp"
+        android:layout_marginVertical="10dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:paddingVertical="15dp"
+        android:paddingHorizontal="15dp"
+        android:background="@drawable/gradient"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="10dp"
+        android:layout_marginVertical="15dp"
+        android:layout_marginHorizontal="15dp"
+        android:background="@drawable/gradient"
+        android:text="Sekolah SMP  berada dibawah Yayasan IDN dengan pembina bapak Dedi Gunawan, MT, CCIE. SMP  memiliki keunggulan utama di bidang IT (teknologi informasi) yang mengacu pada kebutuhan industri IT Internasional, yang sibuat tahin 2017 yang berkembang bersama smk idn dari yayasn yg sama yang awalnya  teretak di Madinatul ilmi (numpang dengan Madinatul Quran 5) dengan dan pertengahan tahun 2018 memiliki gedung sendiri akhirnya pindah ke kawana jonggol, daeyuh "/>
+
+</LinearLayout>

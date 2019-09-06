@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".Info">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Info SMP IDN Boarding School"
+        android:textSize="20sp"
+        android:layout_marginVertical="10dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:paddingVertical="15dp"
+        android:paddingHorizontal="15dp"
+        android:background="@drawable/gradient"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="15dp">
+
+        <Button
+            android:id="@+id/btnsejarah"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/gradiente"
+            android:text="Sejarah"
+            android:textSize="25sp"
+            android:paddingVertical="10dp"
+            android:drawableTop="@drawable/ic_language_black_24dp" />
+
+        <Button
+            android:id="@+id/btnstruktur"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/gradientf"
+            android:text="Struktur"
+            android:textSize="25sp"
+            android:paddingVertical="10dp"
+            android:drawableTop="@drawable/ic_account_balance_black_24dp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="15dp">
+
+        <Button
+            android:id="@+id/btnpembuat"
+            android:layout_width="160dp"
+            android:layout_height="150dp"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/gradientd"
+            android:text="Pembuat"
+            android:textSize="25sp"
+            android:paddingVertical="10dp"
+            android:drawableTop="@drawable/ic_build_black_24dp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

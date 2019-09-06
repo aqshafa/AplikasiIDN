@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aplikasiidn">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/profil"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".DetailMapel"></activity>
+        <activity android:name=".Pembuat" />
+        <activity android:name=".Struktur" />
+        <activity android:name=".Sejarah" />
+        <activity android:name=".DetailJadwal" />
+        <activity android:name=".DetailJadwal2" />
+        <activity android:name=".DetailAsrama" />
+        <activity android:name=".DetailKelas" />
+        <activity android:name=".Info" />
+        <activity android:name=".Jadwal" />
+        <activity android:name=".Asrama" />
+        <activity android:name=".Kelas" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

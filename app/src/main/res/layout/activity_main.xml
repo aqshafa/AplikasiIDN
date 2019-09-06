@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:background="@drawable/logoidn"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="30dp">
+
+        <Button
+            android:id="@+id/btnkelas"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/gradientb"
+            android:text="Kelas"
+            android:textSize="25sp"
+            android:paddingVertical="10dp"
+            android:drawableTop="@drawable/ic_laptop_mac_black_24dp" />
+
+        <Button
+            android:id="@+id/btnasrama"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="15dp"
+            android:background="@drawable/gradientc"
+            android:text="Asrama"
+            android:textSize="25sp"
+            android:paddingVertical="10dp"
+            android:drawableTop="@drawable/ic_hotel_black_24dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/btnjadwal"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/gradientd"
+            android:text="Jadwal"
+            android:textSize="25sp"
+            android:paddingVertical="10dp"
+            android:drawableTop="@drawable/ic_query_builder_black_24dp"/>
+
+        <Button
+            android:id="@+id/btninfo"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="15dp"
+            android:background="@drawable/gradienta"
+            android:text="Info"
+            android:textSize="25sp"
+            android:paddingVertical="10dp"
+            android:drawableTop="@drawable/ic_info_black_24dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

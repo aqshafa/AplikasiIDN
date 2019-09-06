@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".Kelas">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Daftar kelas SMP IDN Boarding School"
+            android:textSize="20sp"
+            android:layout_marginVertical="10dp"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:paddingVertical="15dp"
+            android:paddingHorizontal="15dp"
+            android:background="@drawable/gradient"/>
+
+        <Button
+            android:id="@+id/btn7a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kelas 7A"
+            android:textSize="20sp"
+            android:layout_marginHorizontal="70dp"/>
+
+        <Button
+            android:id="@+id/btn7b"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kelas 7B"
+            android:textSize="20sp"
+            android:layout_marginHorizontal="70dp"/>
+
+        <Button
+            android:id="@+id/btn7c"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kelas 7C"
+            android:textSize="20sp"
+            android:layout_marginHorizontal="70dp"/>
+
+        <Button
+            android:id="@+id/btn7d"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kelas 7D"
+            android:textSize="20sp"
+            android:layout_marginHorizontal="70dp"/>
+
+        <Button
+            android:id="@+id/btn8a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kelas 8A"
+            android:textSize="20sp"
+            android:layout_marginHorizontal="70dp"/>
+
+        <Button
+            android:id="@+id/btn8b"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kelas 8B"
+            android:textSize="20sp"
+            android:layout_marginHorizontal="70dp" />
+
+        <Button
+            android:id="@+id/btn8c"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kelas 8C"
+            android:textSize="20sp"
+            android:layout_marginHorizontal="70dp"/>
+
+        <Button
+            android:id="@+id/btn8d"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kelas 8D"
+            android:textSize="20sp"
+            android:layout_marginHorizontal="70dp"/>
+
+        <Button
+            android:id="@+id/btn9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kelas 9"
+            android:textSize="20sp"
+            android:layout_marginHorizontal="70dp"/>
+
+</LinearLayout>

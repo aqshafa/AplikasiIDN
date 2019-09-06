@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Aplikasi IDN</string>
+
+    <!--data guru 7a-->
+    <string name="namaguru7a">: Ust.Aziz</string>
+    <string name="asalguru7a">: Tanggerang</string>
+    <string name="emailguru7a">: mabdulaziz124@gmail.com</string>
+    <string name="teleponguru7a">: +62 812-1281-0390</string>
+
+    <!--data guru 7b-->
+    <string name="namaguru7b">: Ust.Suut</string>
+    <string name="asalguru7b">: Banyumas</string>
+    <string name="emailguru7b">: suutmulyono@rocketmail.com</string>
+    <string name="teleponguru7b">: +62 891-4473-387</string>
+
+    <!--data guru 7c-->
+    <string name="namaguru7c">: Ust.Ulum</string>
+    <string name="asalguru7c">: Tanggerang</string>
+    <string name="emailguru7c">: sahrululum73@gmail.com</string>
+    <string name="teleponguru7c">: +62 838-1301-3523</string>
+
+    <!--data guru 7d-->
+    <string name="namaguru7d">: Ust.Lucas</string>
+    <string name="asalguru7d">: Purworejo</string>
+    <string name="emailguru7d">: lucas@gmail.com</string>
+    <string name="teleponguru7d">: +62 8953-2908-1662</string>
+
+    <!--data guru 8a-->
+    <string name="namaguru8a">: Ust.Daffa</string>
+    <string name="asalguru8a">: Bekasi</string>
+    <string name="emailguru8a">: hzir.daffa@gmail.com</string>
+    <string name="teleponguru8a">: +62 895-0624-2545</string>
+
+    <!--data guru 8b-->
+    <string name="namaguru8b">: Ust.Haidar</string>
+    <string name="asalguru8b">: Jawa timur</string>
+    <string name="emailguru8b">: haidar.zamzam99@gmail.com</string>
+    <string name="teleponguru8b">: +62 812-1601-2160</string>
+
+    <!--data guru 8c-->
+    <string name="namaguru8c">: Ust.Zafraan</string>
+    <string name="asalguru8c">: Bandung</string>
+    <string name="emailguru8c">: rahmanzafraan@gmail.com</string>
+    <string name="teleponguru8c">: +62 856-9412-4566</string>
+
+    <!--data guru 8d-->
+    <string name="namaguru8d">: Ust.Salim</string>
+    <string name="asalguru8d">: Cilacap</string>
+    <string name="emailguru8d">: salim.hartono@gmail.com</string>
+    <string name="teleponguru8d">: +62 859-7270-6566</string>
+
+    <!--data guru 9-->
+    <string name="namaguru9">: Ust.Aji</string>
+    <string name="asalguru9">: Semarang</string>
+    <string name="emailguru9">: setyaji07@gmail.com</string>
+    <string name="teleponguru9">: +62 896-3004-7842</string>
+    ------------------------------------------------------
+    <!--data musyrif 7a-->
+    <string name="namamusyrifumar">: Ust.Iqbal</string>
+    <string name="asalmusyrifumar">: Palembang</string>
+    <string name="emailmusyrifumar">: (tidak tahu emailnya)</string>
+    <string name="teleponmusyrifumar">: +62 813-7938-8091</string>
+
+    <!--data guru 7b-->
+    <string name="namamusyrifkhalid">: Ust.Hanif</string>
+    <string name="asalmusyrifkhalid">: Aceh</string>
+    <string name="emailmusyrifkhalid">: limbawaraqah@gmail.com</string>
+    <string name="teleponmusyrifkhalid">: +62 812-7536-9281</string>
+
+    <!--data guru 7c-->
+    <string name="namamusyrifutsman">: Ust.Doni</string>
+    <string name="asalmusyrifutsman">: Palembang</string>
+    <string name="emailmusyrifutsman">: doniazizi02@gmail.com</string>
+    <string name="teleponmusyrifutsman">: +62 8583-9434-3888</string>
+
+    <!--data guru 7d-->
+    <string name="namamusyrifali">: Ust.Agus</string>
+    <string name="asalmusyrifali">: Palembang</string>
+    <string name="emailmusyrifali">: agustrimuslim@gmail.com</string>
+    <string name="teleponmusyrifali">: +62 857-0910-6642</string>
+
+    <!--data guru 8a-->
+    <string name="namamusyrifthoriq">: Ust.Husein</string>
+    <string name="asalmusyrifthoriq">: Bekasi Utara</string>
+    <string name="emailmusyrifthoriq">: huseinfadilah@gmail.com</string>
+    <string name="teleponmusyrifthoriq">: +62 812-8336-1168</string>
+
+    <!--data guru 8b-->
+    <string name="namamusyrifabdurrahman">: Ust.Dzaki</string>
+    <string name="asalmusyrifabdurrahman">: Bekasi</string>
+    <string name="emailmusyrifabdurrahman">: nazma0899@gmail.com</string>
+    <string name="teleponmusyrifabdurrahman">: +62 813-1439-2933</string>
+
+    <!--data guru 8b-->
+    <string name="namamusyrif9">: Ust.Yudi</string>
+    <string name="asalmusyrif9">: Palembang</string>
+    <string name="emailmusyrif9">: ahmadwahfiuddin@gmail.com</string>
+    <string name="teleponmusyrif9">: +62 813-7392-3065</string>
+</resources>
