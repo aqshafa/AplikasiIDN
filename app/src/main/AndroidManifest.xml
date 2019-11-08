@@ -10,7 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".DetailMapel"></activity>
-        <activity android:name=".Pembuat" />
+        <activity android:name=".Pembuat" >
+              <meta-data android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
         <activity android:name=".Struktur" />
         <activity android:name=".Sejarah" />
         <activity android:name=".DetailJadwal" />
